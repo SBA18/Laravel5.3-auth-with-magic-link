@@ -1,0 +1,1 @@
+Your magic link is : <a href="<?php echo e($link); ?>"><?php echo e($link); ?></a>
